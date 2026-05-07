@@ -1,6 +1,6 @@
 # 📊 AI Data Analyst Agent
 
-An intelligent, command-line-based AI Data Analyst Assistant powered by Hugging Face's Inference API and open-source models (Qwen-2.5-Coder-32B). This project allows users to chat contextually with an AI and automatically analyze CSV datasets. 
+An intelligent, command-line-based AI Data Analyst Assistant powered by Hugging Face's Inference API and open-source models (Qwen). This project allows users to chat contextually with an AI and automatically analyze CSV datasets. 
 
 When a dataset is uploaded, the agent acts as an automated data scientist: generating statistical summaries, checking for missing values, plotting correlation heatmaps, training a baseline machine learning model, and summarizing the findings using the LLM.
 
